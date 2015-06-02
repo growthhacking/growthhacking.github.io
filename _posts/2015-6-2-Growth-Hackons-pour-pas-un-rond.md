@@ -10,9 +10,9 @@ Le problème, c'est que, mis bout à bout, toutes ces petites dépenses… hum, 
 
 ## Julien Courbet : "mais combien ça coûte, le Growth Hacking ?"
 
-J'ai posé la question à quelques startup  : "Combien vous ont coûté, bout à bout, tous ces petits outils commerciaux, en ordre de grandeur, par mois  ?"
+La question a été posée à quelques start-ups  : "Combien vous ont coûté, bout à bout, tous ces petits outils commerciaux, en ordre de grandeur, par mois  ?"
 
-Réponses obtenues pour diverses start-up :
+Diverses réponses obtenues  :
 
 * 100 euros/mois
 * 350 euros/mois
