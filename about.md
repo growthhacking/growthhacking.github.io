@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: A propos
 permalink: /about/
 ---
 
@@ -9,7 +9,7 @@ David B, 33 ans, web dev & growth hacker indépendant.
 ### Compétences
 
 Back : Ruby, Java, SQL.
-Front : HTML/CSS3 et beaucoup de JS.
+Front : HTML5/CSS3 et beaucoup de JS.
 
 Passion non dissimulée pour le Growth Hacking.
 
