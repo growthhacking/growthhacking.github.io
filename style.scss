@@ -269,6 +269,9 @@ nav {
     text-transform: uppercase;
     font-size: 15px;
   }
+  p {
+    text-align: justify;
+  }
 }
 
 .wrapper-footer {
@@ -282,6 +285,10 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
+
+//self
+
+//end self
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
