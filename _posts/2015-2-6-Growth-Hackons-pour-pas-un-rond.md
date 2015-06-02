@@ -20,15 +20,12 @@ Réponses obtenues pour diverses start-up :
 * 400 euros/mois
 * 500 euros/mois
 
+~~~
 Soit une moyenne très scientifique de 410 euros/mois.
+~~~
 
 Montant corroborée quelques temps plus tard par un prof de Growth Hacking : "à mon avis quelques centaines d'euros par mois", soit très exactement 410.
 
-~~~
-def what?
-  42
-end
-~~~
 
 #### 410 C'est cher si...
 
