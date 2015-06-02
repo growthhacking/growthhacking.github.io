@@ -17,4 +17,4 @@ Passion non dissimulée pour le Growth Hacking.
 
 N'hésiter pas à me contacter pour toute question sur ce blog, ou si vous avez une mission à me proposer.
 
-[David B](mailto:davbohr@gmail.com)
+[davbohr@gmail.com](mailto:davbohr@gmail.com)
