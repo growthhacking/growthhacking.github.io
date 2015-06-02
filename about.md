@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+David B, 33 ans, web dev & growth hacker indépendant.
 
-### More Information
+### Compétences
 
-A place to include any other types of information that you'd like to include about yourself.
+Back : Ruby, Java, SQL.
+Front : HTML/CSS3 et beaucoup de JS.
 
-### Contact me
+Passion non dissimulée pour le Growth Hacking.
 
-[email@domain.com](mailto:email@domain.com)
+### Je suis disponible en ce moment
+
+[David B](mailto:davbohr@gmail.com)
