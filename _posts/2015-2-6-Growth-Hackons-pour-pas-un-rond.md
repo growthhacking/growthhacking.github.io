@@ -22,20 +22,20 @@ Réponses obtenues pour diverses start-up :
 
 Soit une moyenne très scientifique de 410 euros/mois, corroborée quelques temps plus tard par un prof de Growth Hacking : "à mon avis quelques centaines d'euros par mois", soit très exactement 410.
 
-### 410 C'est cher si...
+#### 410 C'est cher si...
 
 * Vous êtes étudiant
 * Vous n'êtes ni cadre sup ni médecin
 * Vous avez pleins d'idées à tester
 * Vous payez déjà un loyer à Paris
 
-### 410 Ce n'est rien comparé...
+#### 410 Ce n'est rien comparé...
 
 * à un budget marketing
 * à un salaire à payer
 * au temps passé si il fallait tout faire soit même
 
-### Tranchons : 410, c'est cher
+#### Tranchons : 410, c'est cher
 
 * Car c'est pas sûr que ça vous rapporte quoi que ce soit.
 * Car vous ne pouvez pas étendre les fonctionnalités des outils.
