@@ -20,7 +20,9 @@ Réponses obtenues pour diverses start-up :
 * 400 euros/mois
 * 500 euros/mois
 
-Soit une moyenne très scientifique de 410 euros/mois, corroborée quelques temps plus tard par un prof de Growth Hacking : "à mon avis quelques centaines d'euros par mois", soit très exactement 410.
+    Soit une moyenne très scientifique de 410 euros/mois.
+
+Montant corroborée quelques temps plus tard par un prof de Growth Hacking : "à mon avis quelques centaines d'euros par mois", soit très exactement 410.
 
 #### 410 C'est cher si...
 
@@ -44,19 +46,19 @@ Soit une moyenne très scientifique de 410 euros/mois, corroborée quelques temp
 
 ## Growthhacking à 0 euro / mois
 
-    Comment fait-on pour ne rien dépenser ? Vous avez 2 options :
+Comment fait-on pour ne rien dépenser ? Vous avez 2 options :
 
-    La première, est d'utiliser le "free tier" des outils payants jusqu'à saturation : une grande partie de ces outils est disponible en version gratuite, soit de manière limitée dans le temps, soit de manière limitée en volume (à partir de X "machins" par jour/semaine/mois ça devient payant). Vous y aviez déjà pensé ? Alors lisez la 2ème solution.
+La première, est d'utiliser le "free tier" des outils payants jusqu'à saturation : une grande partie de ces outils est disponible en version gratuite, soit de manière limitée dans le temps, soit de manière limitée en volume (à partir de X "machins" par jour/semaine/mois ça devient payant). Vous y aviez déjà pensé ? Alors lisez la 2ème solution.
 
-     Refaire tout ou partie des fonctionnalités d'un outil commercial, tout seul dans son garage, en un temps record. Si, si, c'est possible. Bien sûr, pas toutes les fonctionnalités, pas l'interface graphique, pas le support client, pas l'infrastructure technique, pas, pas, pas, pas. Mais tout ce qui compte vraiment peut être refait en très peu de temps. Sans compter qu'il y a des fortes chances que votre petit outil surpasse rapidement l'outil commercial sur nombre de problématiques "maison".  Et il est extensible. Et peut être combiné avec les autres petits outils fait main. Et peut être réutilisé à grande échelle.
+Refaire tout ou partie des fonctionnalités d'un outil commercial, tout seul dans son garage, en un temps record. Si, si, c'est possible. Bien sûr, pas toutes les fonctionnalités, pas l'interface graphique, pas le support client, pas l'infrastructure technique, pas, pas, pas, pas. Mais tout ce qui compte vraiment peut être refait en très peu de temps. Sans compter qu'il y a des fortes chances que votre petit outil surpasse rapidement l'outil commercial sur nombre de problématiques "maison".  Et il est extensible. Et peut être combiné avec les autres petits outils fait main. Et peut être réutilisé à grande échelle.
 
 ## Ca ne marche pas à tous les coups
 
-   Parfois la difficulté technique est trop grande (un Net Promoter Score par exemple). Parfois la fonctionnalité ne représente pas un grand intérêt à être refaite.
+Parfois la difficulté technique est trop grande (un Net Promoter Score par exemple). Parfois la fonctionnalité ne représente pas un grand intérêt à être refaite.
 
     Mais il reste (beaucoup) de place pour le fait maison.
 
-   Notez également que tout ce que vous faites à la main vous donnera un temps d'avance sur la concurrence à l'avenir.
+Notez également que tout ce que vous faites à la main vous donnera un temps d'avance sur la concurrence à l'avenir.
 
 ## A qui s'adresse le growth hacking 0 euro ?
 
