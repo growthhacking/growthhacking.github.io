@@ -13,6 +13,8 @@ Front : HTML/CSS3 et beaucoup de JS.
 
 Passion non dissimulée pour le Growth Hacking.
 
-### Je suis disponible en ce moment
+### Me contacter
+
+N'hésiter pas à me contacter pour toute question sur ce blog, ou si vous avez une mission à me proposer.
 
 [David B](mailto:davbohr@gmail.com)
