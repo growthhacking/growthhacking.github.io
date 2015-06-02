@@ -24,7 +24,7 @@ Diverses réponses obtenues  :
 Soit une moyenne très scientifique de 410 euros/mois.
 ~~~
 
-Montant corroborée quelques temps plus tard par un prof de Growth Hacking : "à mon avis quelques centaines d'euros par mois", soit très exactement 410.
+Montant corroborée quelques temps plus tard par un prof de Growth Hacking : "à mon avis quelques centaines d'euros par mois", soit très exactement 410 :)
 
 
 #### 410 C'est cher si...
