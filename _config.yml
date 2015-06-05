@@ -23,13 +23,13 @@ footer-links:
   flickr:
   github: davidb583
   instagram:
-  linkedin:
+  linkedin: https://fr.linkedin.com/pub/david-boureau/87/872/2a4
   pinterest:
   rss: /feed.xml # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: davidb583
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: 103484049092765370449# anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
