@@ -76,9 +76,9 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
         }
 
         if (getUrlParameter('variation') == null) {
-          $(".sharebar a").hide();
+          $(".sharebar a").show();
         } else {
-          $("footer a").hide();
+          $("footer a").show();
         }
     </script>
     {% include analytics.html %}
