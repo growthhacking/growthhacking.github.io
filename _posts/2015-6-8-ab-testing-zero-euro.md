@@ -12,14 +12,14 @@ L'A/B Testing est déjà inclus dans Google Analytics.
 Pour le mode d'emploi c'est ici :
 
 * Un bon article [en francais] avec captures d'écran fournies,
-* Un autre article [en anglais] très détaillé qui en bonus vous explique ce qu'est l'A/B Testing
+* Un autre article [en anglais] très détaillé qui en bonus vous explique ce qu'est l'A/B Testing,
 * Fuyez la documentation officielle sur le sujet.
 
-Les plus de cet outils :
+Les plus :
 
-* Il ne se contente pas de splitter le traffic, il juge les 2 versions par rapport à un test
-* Très grande latitude sur ce qui est testé
-* Il est capable automatiquement de diminuer / d'augmenter le traffic vers la version qui marche le mieux
+* Il ne se contente pas de splitter le traffic, il juge les 2 versions par rapport à un test,
+* Très grande latitude sur ce qui est testé,
+* Il est capable automatiquement de diminuer / d'augmenter le traffic vers la version qui marche le mieux.
 
 Les moins :
 
@@ -31,7 +31,7 @@ Je ne fait pas rentrer dans la catégorie "moins" les manques comme la test mult
 Leçons à retenir :
 
 * Les outils gratuits sont rarement mis en avant, du fait de la pression commerciale, ce qui est normal.
-* Ces outils sont bien souvent largement suff
+* Ces outils sont bien souvent largement suffisant pour une startup qui part de zéro.
 
 
 [en anglais]:http://blog.crazyegg.com/2015/06/02/ab-testing-google-analytics
