@@ -26,7 +26,7 @@ Les moins :
 * Une certaine fragilité d'intégration puisqu'il faut copier/coller du code, vérifier des urls… c'est certainement hors de portée d'un non-développeur (voir la section "à qui s'adresse le growth hacking 0 euros" de mon [article précédent]), mais très facile, même pour un débutant.
 * Pas forcément facile de tester l'outil, il se base sur les données des jours précédents, alors qu'on aurait besoin d'un retour immédiat sur la configuration.
 
-Je ne fait pas rentrer dans la catégorie "moins" les manques comblés par les outils commerciaux comme le test multivariante, car l'outil surpasse largement les besoins d'une startup qui démarre de zéro.
+Je ne fait pas rentrer dans la catégorie "moins" les manques comblés par les outils commerciaux comme le test multivarié, car l'outil surpasse largement les besoins d'une startup qui démarre de zéro.
 
 Leçons à retenir :
 
