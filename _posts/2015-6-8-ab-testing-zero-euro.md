@@ -23,7 +23,7 @@ Les plus de cet outils :
 
 Les moins :
 
-* Une certaine fragilité d'intégration puisqu'il faut copier/coller du code, vérifier des urls… c'est certainement hors de portée d'un non-développeur (voir la section "à qui s'adresse le growth hacking 0 euros" de mon article précédent), mais très facile, même pour un débutant.
+* Une certaine fragilité d'intégration puisqu'il faut copier/coller du code, vérifier des urls… c'est certainement hors de portée d'un non-développeur (voir la section "à qui s'adresse le growth hacking 0 euros" de mon [article précédent]), mais très facile, même pour un débutant.
 * Pas forcément facile de tester l'outil, il se base sur les données des jours précédents, alors qu'on aurait besoin d'un retour immédiat sur la configuration.
 
 Je ne fait pas rentrer dans la catégorie "moins" les manques comme la test multivariante et… , car l'outil surpasse largement les besoins d'une startup qui démarre à zéro euro.
@@ -36,3 +36,4 @@ Leçons à retenir :
 
 [en anglais]:http://blog.crazyegg.com/2015/06/02/ab-testing-google-analytics
 [en francais]:http://www.liliandauzat.com/marketing-web/google-analytics-faire-test-ab/
+[article précédent]:http://growthhacking.github.io/Growth-Hackons-pour-pas-un-rond/
