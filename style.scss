@@ -297,6 +297,7 @@ footer {
 @media all and (max-width:500px) {
 .parent {position: relative;}
 .sharebar {position: fixed; bottom: 0px; right: 0px; line-height: 32px;}
+.shareitem {display: inline;}
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
