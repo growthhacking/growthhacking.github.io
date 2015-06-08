@@ -294,6 +294,11 @@ footer {
 .sharebar {position: fixed; top: 150px; left: auto;margin-left: -70px;}
 .shareitem {display: block;}
 
+@media all and (max-width:500px) {
+.parent {position: relative;}
+.sharebar {position: fixed; bottom: 0px; right: 0px; line-height: 32px;}
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
