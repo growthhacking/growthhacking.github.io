@@ -5,7 +5,7 @@ published: true
 ---
 
 
-Si vous faites des recherches sur les outils d'AB Testing dans google, vous tombez sur tous les outils commerciaux possibles. Mais, pas celui de google (point d'exclamation !), qui pourtant est gratuit (double point d'exclamation !!).
+Si vous faites des recherches sur les outils d'A/B Testing dans google, vous tombez sur tous les outils commerciaux possibles. Mais, pas celui de google (point d'exclamation !), qui pourtant est gratuit (double point d'exclamation !!).
 
 L'A/B Testing est déjà inclus dans Google Analytics.
 
