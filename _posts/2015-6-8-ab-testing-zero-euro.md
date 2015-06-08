@@ -31,7 +31,7 @@ Je ne fait pas rentrer dans la catégorie "moins" les manques comblés par les o
 Leçons à retenir :
 
 * Les outils gratuits sont rarement mis en avant, du fait de la pression commerciale, ce qui est normal.
-* Ces outils sont bien souvent largement suffisant pour une startup qui part de zéro.
+* Ces outils sont bien souvent largement suffisant pour une jeune startup.
 
 
 [en anglais]:http://blog.crazyegg.com/2015/06/02/ab-testing-google-analytics
