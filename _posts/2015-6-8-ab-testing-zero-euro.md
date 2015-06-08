@@ -11,7 +11,7 @@ L'A/B Testing est déjà inclus dans Google Analytics.
 
 Pour le mode d'emploi c'est ici :
 
-* Un bon article [en français] avec captures d'écran fournies,
+* Un bon article [en francais] avec captures d'écran fournies,
 * Un autre article [en anglais] très détaillé qui en bonus vous explique ce qu'est l'A/B Testing
 * Fuyez la documentation officielle sur le sujet.
 
@@ -35,4 +35,4 @@ Leçons à retenir :
 
 
 [en anglais]:http://blog.crazyegg.com/2015/06/02/ab-testing-google-analytics
-[en français]:http://www.liliandauzat.com/marketing-web/google-analytics-faire-test-ab/
+[en francais]:http://www.liliandauzat.com/marketing-web/google-analytics-faire-test-ab/
