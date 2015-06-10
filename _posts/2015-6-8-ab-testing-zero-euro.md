@@ -1,39 +1,26 @@
----
-layout: post
-title: A/B Testing zéro euro
-published: true
----
+A / B Testing zero euro
+
+If you're googling around looking for A/B testing tools, you will fall on every possible commercial tool excerpt... the one of google, which is actually free.
+
+A / B testing is already included in Google Analytics.
+
+For the tutorial crazyegg published a [very detailed post] a few days ago that really worth reading.
+
+Pros:
+
+* It doesn't not just split the traffic, it enforce the user to associate a test
+* Very wide possibilities about what to test,
+* It is able of automatically increase traffic on the version that works better,
+* It automagically knows when the test is enoughly statistically significant, so that there is a clear winner at the end.
+
+Cons:
+
+* Kind of fragility to integrate properly the tool since it involve copy/pasting code, know if the test or GA is actually working can be tricky.
 
 
-Si vous faites des recherches sur les outils d'A/B Testing dans Google, vous tombez sur tous les outils commerciaux possibles. Mais, pas celui de Google (point d'exclamation !), qui pourtant est gratuit (double point d'exclamation !!).
+Lessons Learned:
 
-L'A/B Testing est déjà inclus dans Google Analytics.
+* Free tools are rarely highlighted, because of commercial pressure, which is normal.
+* Free tools are more than enough for a young startup.
 
-Pour le mode d'emploi c'est ici :
-
-* Un bon article [en francais] avec captures d'écran fournies,
-* Un autre article [en anglais] très détaillé qui en bonus vous explique ce qu'est l'A/B Testing,
-* Fuyez la documentation officielle sur le sujet.
-
-Les plus :
-
-* Il ne se contente pas de splitter le traffic, il juge les 2 versions par rapport à un test,
-* Très grande latitude sur ce qui est testé,
-* Il est capable automatiquement de diminuer / d'augmenter le traffic vers la version qui marche le mieux.
-
-Les moins :
-
-* Une certaine fragilité d'intégration puisqu'il faut copier/coller du code, vérifier des urls… c'est certainement hors de portée d'un non-développeur (voir la section "à qui s'adresse le growth hacking 0 euros" de mon [article précédent]), mais très facile, même pour un débutant.
-* Pas forcément facile de tester l'outil, il se base sur les données des jours précédents, alors qu'on aurait besoin d'un retour immédiat sur la configuration.
-
-Je ne fait pas rentrer dans la catégorie "moins" les manques comblés par les outils commerciaux comme le test multivarié, car l'outil surpasse largement les besoins d'une startup qui démarre de zéro.
-
-Leçons à retenir :
-
-* Les outils gratuits sont rarement mis en avant, du fait de la pression commerciale, ce qui est normal.
-* Ces outils sont bien souvent largement suffisant pour une jeune startup.
-
-
-[en anglais]:http://blog.crazyegg.com/2015/06/02/ab-testing-google-analytics
-[en francais]:http://www.liliandauzat.com/marketing-web/google-analytics-faire-test-ab/
-[article précédent]:http://growthhacking.github.io/Growth-Hackons-pour-pas-un-rond/
+[very detailed post]:http://blog.crazyegg.com/2015/06/02/ab-testing-google-analytics
