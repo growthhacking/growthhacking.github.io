@@ -3,8 +3,6 @@ layout: post
 title: A / B Testing zero euro
 ---
 
-A / B Testing zero euro
-
 If you're googling around looking for A/B testing tools, you will fall on every possible commercial tool excerpt... the one of google, which is actually free.
 
 A / B testing is already included in Google Analytics.
