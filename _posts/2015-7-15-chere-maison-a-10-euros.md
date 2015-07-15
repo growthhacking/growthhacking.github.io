@@ -66,10 +66,10 @@ C'est le sujet de cet article : on ne saura jamais. C'est un joker qui a été u
 
 La maison à 10 euros possède (encore actuellement) :
 
-- un site internet pour pouvoir s'inscrire,
-- un blog,
-- une page Facebook,
-- un compte Twitter.
+- un beau [site internet] pour pouvoir s'inscrire,
+- un [blog],
+- une page [facebook],
+- un compte [twitter].
 
 A l'échelle d'un particulier, c'est très bien.
 
@@ -105,18 +105,19 @@ Sources :
 
 [Reportage France 3]
 
-PS : les commentaires ne sont pas encore dispos sur ce blog, on peut en discuter sur twitter si vous voulez.
-
  - http://france3-regions.francetvinfo.fr/champagne-ardenne/2015/02/13/la-maison-du-jeu-concours-10-euros-ne-trouve-pas-preneur-655143.html
  - http://www.leparisien.fr/insolite/achetez-cette-maison-pour-10-euros-05-02-2014-3563029.php
  - http://edito.seloger.com/actualites/villes/la-maison-pour-dix-euros-n-pas-trouve-d-acheteur-article.html
- - e
- - z
- - d
+ - 
+ - 
+ - 
  
 
 [ce reportage]:http://api.dmcloud.net/player/pubpage/4f3d114d94a6f66945000325/54df2dd894a6f63f02bf938e/bbb6a85045b64793b15431540826072d?wmode=transparent&chromeless=0&autoplay=1
 [Oussama Amar]:https://twitter.com/daedalium
-
+[blog]:http://devenezproprietairedemamaison.over-blog.com/
+[site]:http://www.une-maison-pour-10-euros.com/
+[facebook]:https://www.facebook.com/pages/Une-maison-pour-10-Euros
+[twitter]:https://twitter.com/Maison_10euros
 
 
