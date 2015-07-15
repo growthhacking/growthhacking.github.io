@@ -75,9 +75,9 @@ A l'échelle d'un particulier, c'est très bien.
 
 ## Alors qu'est ce qui coince?
 
-ce qui ne va pas, c'est la quantité
+Ce qui ne va pas, c'est la quantité.
 
-A vous de vous faire une opinion sur la quantité maximale d'information à diffuser, vous trouverez d'excellentes informations sur le blog de Buffer, ainsi que sur le compte twitter 
+A vous de vous faire une opinion sur la quantité maximale d'information à diffuser. Vous trouverez sur le web pleins de ressources sur les limites techniques et psychologiques (pour ne pas faire fuir vos cibles) desquelles il faut se rapprocher.
 
 My 2 cents :
 
@@ -107,10 +107,12 @@ Sources :
 
 PS : les commentaires ne sont pas encore dispos sur ce blog, on peut en discuter sur twitter si vous voulez.
 
-
-[ce reportage]:http://api.dmcloud.net/player/pubpage/4f3d114d94a6f66945000325/54df2dd894a6f63f02bf938e/bbb6a85045b64793b15431540826072d?wmode=transparent&chromeless=0&autoplay=1
-[Oussama Amar]:https://twitter.com/daedalium
 http://france3-regions.francetvinfo.fr/champagne-ardenne/2015/02/13/la-maison-du-jeu-concours-10-euros-ne-trouve-pas-preneur-655143.html
 http://www.leparisien.fr/insolite/achetez-cette-maison-pour-10-euros-05-02-2014-3563029.php
 http://edito.seloger.com/actualites/villes/la-maison-pour-dix-euros-n-pas-trouve-d-acheteur-article.html
+
+[ce reportage]:http://api.dmcloud.net/player/pubpage/4f3d114d94a6f66945000325/54df2dd894a6f63f02bf938e/bbb6a85045b64793b15431540826072d?wmode=transparent&chromeless=0&autoplay=1
+[Oussama Amar]:https://twitter.com/daedalium
+
+
 
