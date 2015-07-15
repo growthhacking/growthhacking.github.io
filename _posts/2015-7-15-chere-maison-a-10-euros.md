@@ -81,13 +81,12 @@ My 2 cents :
 
 - pour Facebook, il faut au moins 5 nouveaux posts de qualité par semaines, ici ce n'est pas le cas.
 - pour le blog : les inconditionnels du blogging en font tous les jours, mais quelques fois par mois est le strict minimum.
-- pour Twitter, il faut twitter au moins 5 fois des tweets de qualité par jour, mettre 100 favoris pertinents par heure (oui, par heure), ajouter des personnes aux listes, contacter au moins 100 personnes réelles (oui, réelles, pas des robots) par heure (oui, par heure). Sur le compte twitter de notre exemple ce n'est pas le cas.
-
+- pour Twitter, il faut twitter au moins 5 fois par jour à haute qualité, mettre 100 favoris pertinents par heure (oui, par heure), ajouter des personnes aux listes, favoriser un maximum de tweets (mais intelligemment), et j'en passe. Sur le compte twitter de notre exemple ce n'est pas le cas.
 - en plus de tout ce qui est cité, il faut essayer de se faire remarquer sur au moins 2 autres énormes sites (que je ne nommerais pas) bien adaptés à ce marché, en postant plusieurs centaines de fois par jour sur chacun d'entre eux. 
 
-Vous allez me dire : tout ceci coûte des millions et la micro entreprise n'aurait pas pu se le permettre de toutes façons.
+Vous allez me dire : tout ceci coûte cher et la micro entreprise n'aurait pas pu se le permettre de toutes façons.
 
-Et c'est là qu'intervient toute la magie du growth hacking. En automatisant, de manière réfléchie, tout ou partie de la présence sur les réseaux sociaux, on peut atteindre une efficacité redoutable, à moindre frais.
+Et c'est là qu'intervient toute la magie du growth hacking. En automatisant, de manière réfléchie, tout ou partie de la présence là où sont les cibles potentielles (souvent les réseaux sociaux, mais pas que), on peut atteindre une efficacité redoutable, à moindre frais.
 
 ## La fin
 
