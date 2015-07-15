@@ -11,7 +11,7 @@ L'article aurait pu s'appeler :
 
 ## Du rêve pour commencer
 
-La maison à 10 euros (site) est une sorte de jeu-concours lancée par une propriétaire d'une splendide maison :
+La maison à 10 euros ([site]) est une sorte de jeu-concours lancée par une propriétaire d'une splendide maison :
 
 - tout participant peut acheter une chance de gagner la maison, pour 10 euros, ensuite il y a tirage au sort,
 - c'est une maison de rêve, puisqu'elle avait été initialement évaluée à 2 M€,
@@ -66,7 +66,7 @@ C'est le sujet de cet article : on ne saura jamais. C'est un joker qui a été u
 
 La maison à 10 euros possède (encore actuellement) :
 
-- un beau [site internet] pour pouvoir s'inscrire,
+- un beau [site] pour pouvoir s'inscrire,
 - un [blog],
 - une page [facebook],
 - un compte [twitter].
