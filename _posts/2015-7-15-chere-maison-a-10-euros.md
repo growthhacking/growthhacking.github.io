@@ -33,7 +33,7 @@ Il n'y a donc qu'à attendre que "ça marche tout seul".
 
 C'est une erreur très classique dans le monde de l'entrepreneuriat, appelée "built it, they will come", parfois traduite chez nous par "faites un bon produit et ils viendront". L'expression se suffit à elle-même.
 
-La chute est en générale assez dure, vous pouvez percevoir un certain agacement de l'entrepreneuse dans les premières secondes de ce reportage.
+La chute est en générale assez dure, vous pouvez percevoir un certain agacement de l'entrepreneuse dans les premières secondes de [ce reportage].
 
 Bilan : 10 (oui, dix) inscrit les 6 premiers mois !
 
