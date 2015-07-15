@@ -92,7 +92,7 @@ Et c'est là qu'intervient toute la magie du growth hacking. En automatisant, de
 
 La fin du jeu concours est prévue pour le 18 Août 2015. On saura alors si la stratégie de l'entreprise a été payante.
 
-Si le jeu est considéré comme un échec, on ne saura jamais si il aurait pu réussir, la pression exercée sur les réseaux sociaux n'a pas été suffisante pour en tirer des conclusions.
+Si le jeu est considéré comme un échec, on ne saura jamais si il aurait pu réussir, la pression exercée sur les réseaux sociaux n'ayant pas été suffisante pour en tirer des conclusions.
 
 Si au contraire il a été une franche réussite, "quelque chose" aura fait décoller miraculeusement le produit dans les 6 derniers mois. Si ce quelque chose est publié nous aurons appris un nouveau growth hack ;)
 
