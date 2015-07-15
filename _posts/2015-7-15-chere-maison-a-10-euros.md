@@ -33,7 +33,7 @@ Il n'y a donc qu'à attendre que "ça marche tout seul".
 
 C'est une erreur très classique dans le monde de l'entrepreneuriat, appelée "built it, they will come", parfois traduite chez nous par "faites un bon produit et ils viendront". L'expression se suffit à elle-même.
 
-La chute est en générale assez dure, vous pouvez percevoir un certain agacement de l'entrepreneuse dans les premières secondes du reportage (reportage en français) : 
+La chute est en générale assez dure, vous pouvez percevoir un certain agacement de l'entrepreneuse dans les premières secondes du reportage (reportage en français) : <iframe frameborder="0" width="640" height="360" src="http://api.dmcloud.net/player/embed/4f3d114d94a6f66945000325/54df2dd894a6f63f02bf938e/bbb6a85045b64793b15431540826072d?exported=1"></iframe>
 
 Bilan : 10 (oui, dix) inscrit les 6 premiers mois !
 
@@ -101,6 +101,15 @@ Si au contraire il a été une franche réussite, "quelque chose" aura fait déc
 
 Rendez-vous le 18 août !
 
+Sources :
+
+[Reportage France 3]
+
 PS : les commentaires ne sont pas encore dispos sur ce blog, on peut en discuter sur twitter si vous voulez.
 
+
+https://twitter.com/daedalium
+http://france3-regions.francetvinfo.fr/champagne-ardenne/2015/02/13/la-maison-du-jeu-concours-10-euros-ne-trouve-pas-preneur-655143.html
+http://www.leparisien.fr/insolite/achetez-cette-maison-pour-10-euros-05-02-2014-3563029.php
+http://edito.seloger.com/actualites/villes/la-maison-pour-dix-euros-n-pas-trouve-d-acheteur-article.html
 
