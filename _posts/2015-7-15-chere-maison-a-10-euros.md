@@ -108,7 +108,7 @@ Sources :
 PS : les commentaires ne sont pas encore dispos sur ce blog, on peut en discuter sur twitter si vous voulez.
 
 
-[ce reportage]http://api.dmcloud.net/player/pubpage/4f3d114d94a6f66945000325/54df2dd894a6f63f02bf938e/bbb6a85045b64793b15431540826072d?wmode=transparent&chromeless=0&autoplay=1
+[ce reportage]:http://api.dmcloud.net/player/pubpage/4f3d114d94a6f66945000325/54df2dd894a6f63f02bf938e/bbb6a85045b64793b15431540826072d?wmode=transparent&chromeless=0&autoplay=1
 
 
 https://twitter.com/daedalium
