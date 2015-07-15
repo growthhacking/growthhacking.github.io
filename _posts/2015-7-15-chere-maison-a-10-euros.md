@@ -81,7 +81,7 @@ My 2 cents :
 
 - pour Facebook, il faut au moins 5 nouveaux posts de qualité par semaines, ici ce n'est pas le cas.
 - pour le blog : les inconditionnels du blogging en font tous les jours, mais quelques fois par mois est le strict minimum.
-- pour Twitter, il faut twitter au moins 5 fois par jour à haute qualité, mettre 100 favoris pertinents par heure (oui, par heure), ajouter des personnes aux listes, favoriser un maximum de tweets (mais intelligemment), et j'en passe. Sur le compte twitter de notre exemple ce n'est pas le cas.
+- pour Twitter, il faut twitter de la qualité au moins 5 fois par jour, mettre 100 favoris pertinents par heure (oui, par heure), ajouter des personnes aux listes, favoriser un maximum de tweets (mais intelligemment), et j'en passe. Sur le compte twitter de notre exemple ce n'est pas le cas.
 - en plus de tout ce qui est cité, il faut essayer de se faire remarquer sur au moins 2 autres énormes sites (que je ne nommerais pas) bien adaptés à ce marché, en postant plusieurs centaines de fois par jour sur chacun d'entre eux. 
 
 Vous allez me dire : tout ceci coûte cher et la micro entreprise n'aurait pas pu se le permettre de toutes façons.
