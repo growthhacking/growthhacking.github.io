@@ -43,8 +43,6 @@ Suite à une parution dans la presse locale début 2014, l'entreprise décolle e
 
 Faut-il applaudir ? 
 
-Oui et non. 
-
 - oui car réussir à avoir des colonnes dans la presse régionale relève du tour de force, 
 - oui car l'efficacité a été redoutable,
 - non car le résultat est toujours 10 à 20 fois inférieur à l'objectif, donc on est très loin du compte.
