@@ -82,9 +82,8 @@ A vous de vous faire une opinion sur la quantité maximale d'information à diff
 My 2 cents :
 
 - pour Facebook, il faut au moins 5 nouveaux posts de qualité par semaines, ici ce n'est pas le cas.
-- pour le blog : les inconditionnels du blogging en font tous les jours, mais quelques fois par mois est le strict minimum. Ici pouvoir
+- pour le blog : les inconditionnels du blogging en font tous les jours, mais quelques fois par mois est le strict minimum.
 - pour Twitter, il faut twitter au moins 5 fois des tweets de qualité par jour, mettre 100 favoris pertinents par heure (oui, par heure), ajouter des personnes aux listes, contacter au moins 100 personnes réelles (oui, réelles, pas des robots) par heure (oui, par heure). Sur le compte twitter de notre exemple ce n'est pas le cas.
-
 
 - en plus de tout ce qui est cité, il faut essayer de se faire remarquer sur au moins 2 autres énormes sites (que je ne nommerais pas) bien adaptés à ce marché, en postant plusieurs centaines de fois par jour sur chacun d'entre eux. 
 
@@ -98,10 +97,10 @@ Intuitivement, un compte twitter qui ne fait que spammer toute la journée ne se
 
 La fin
 
-    La fin du jeu concours est prévue pour le 18 Août 2015. On saura alors si la stratégie de l'entreprise a été payante.
+La fin du jeu concours est prévue pour le 18 Août 2015. On saura alors si la stratégie de l'entreprise a été payante.
 
-    Si le jeu est considéré comme un échec, on ne saura jamais si il aurait pu réussir, la pression exercée sur les réseaux sociaux n'a pas été suffisante pour en tirer des conclusions.
+Si le jeu est considéré comme un échec, on ne saura jamais si il aurait pu réussir, la pression exercée sur les réseaux sociaux n'a pas été suffisante pour en tirer des conclusions.
 
-    Si au contraire il a été une franche réussite, "quelque chose" aura fait décoller miraculeusement le produit dans les 6 derniers mois. Si ce quelque chose est publié nous aurons appris un nouveau growth hack ;)
+Si au contraire il a été une franche réussite, "quelque chose" aura fait décoller miraculeusement le produit dans les 6 derniers mois. Si ce quelque chose est publié nous aurons appris un nouveau growth hack ;)
 
 Rendez-vous le 18 août !
