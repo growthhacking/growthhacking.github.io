@@ -53,8 +53,8 @@ Alors c'est oui ou c'est non ?
 
 Pour trancher, 2 citations de mémoire d'[Oussama Amar] de TheFamily, qui me pardonnera l'approximation sur les mots :
 
-"La satisfaction est le pire ennemi de l'entrepreneur."
-"Quand le début d'une belle croissance commence à flancher, le moral tombe et l'entreprise avec."
+ - "La satisfaction est le pire ennemi de l'entrepreneur."
+ - "Quand le début d'une belle croissance commence à flancher, le moral tombe et l'entreprise avec."
 
 ## La stagnation
 
