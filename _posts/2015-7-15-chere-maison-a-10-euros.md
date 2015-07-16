@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A / B Testing zero euro
+title: Chère maison à 10 euros, tu n'as pas tout essayé
 published: true
 ---
 
