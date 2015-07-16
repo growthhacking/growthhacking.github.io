@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A / B Testing zero euro
-published: false
+published: true
 ---
 
 L'article aurait pu s'appeler :
