@@ -86,7 +86,7 @@ My 2 cents :
 
 Vous allez me dire : tout ceci coûte cher et la micro entreprise n'aurait pas pu se le permettre de toutes façons.
 
-Et c'est là qu'intervient toute la magie du growth hacking. En automatisant, de manière réfléchie, tout ou partie de la présence là où sont les cibles potentielles (souvent les réseaux sociaux, mais pas que), on peut atteindre une efficacité redoutable, à moindre frais.
+Et c'est là qu'intervient toute la magie du growth hacking. En automatisant, de manière réfléchie, tout ou partie de la présence des cibles potentielles (souvent les réseaux sociaux, mais pas que), on peut atteindre une efficacité redoutable, à moindre frais.
 
 ## La fin
 
