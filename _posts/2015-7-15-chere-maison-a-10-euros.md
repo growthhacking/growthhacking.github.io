@@ -100,7 +100,7 @@ Rendez-vous le 18 août !
 
 Sources :
 
- - http://france3-regions.francetvinfo.fr/champagne-ardenne/2015/02/13/la-maison-du-jeu-concours-10-euros-ne-trouve-pas-preneur-655143.html
+ - [article france3]
  - http://www.leparisien.fr/insolite/achetez-cette-maison-pour-10-euros-05-02-2014-3563029.php
  - http://edito.seloger.com/actualites/villes/la-maison-pour-dix-euros-n-pas-trouve-d-acheteur-article.html
  - http://devenezproprietairedemamaison.over-blog.com/
@@ -114,5 +114,6 @@ Sources :
 [site]:http://www.une-maison-pour-10-euros.com/
 [facebook]:https://www.facebook.com/pages/Une-maison-pour-10-Euros
 [twitter]:https://twitter.com/Maison_10euros
+[article france3]:http://france3-regions.francetvinfo.fr/champagne-ardenne/2015/02/13/la-maison-du-jeu-concours-10-euros-ne-trouve-pas-preneur-655143.html
 
 
