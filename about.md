@@ -4,12 +4,12 @@ title: A propos
 permalink: /about/
 ---
 
-David B, 33 ans, web dev. Je me forme au web design et au growth hacking.
+David B, 33 ans, web dev. Passionné par le web design et le growth hacking.
 
 ### Compétences
 
-Back : Ruby, Java, NodeJS.
 Front : HTML5/CSS3 et beaucoup de JS.
+Back : Ruby, Java, NodeJS.
 
 ### Me contacter
 
