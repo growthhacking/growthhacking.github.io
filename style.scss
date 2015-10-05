@@ -289,16 +289,8 @@ footer {
 /**************/
 /* OWN RULES */
 /**************/
-@media all and (min-width:901px) {
-.parent {position: relative;}
-.sharebar {position: fixed; top: 170px; left: auto;margin-left: -70px;}
-.sharebar a {display: block;}
-}
-@media all and (max-width:900px) {
-.parent {position: relative;}
-.sharebar {position: fixed; bottom: 0px; right: 0px; line-height: 32px;background-color: white;}
-.sharebar a {display: inline;}
-}
+
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
