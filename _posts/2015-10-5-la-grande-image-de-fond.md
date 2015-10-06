@@ -1,10 +1,20 @@
 ---
 layout: post
-title: Startup, Arrêtez avec la grande image de fond dans vos landing page
+title:  La grande image de fond dans une landing page
 published: false
 ---
 <br>
-## C'est trop lent à charger
+
+Impossible et impensable aujourd'hui de lancer une landing page sans une belle et grande image de fond, à tel point que je lui attribue un petit nom pour cet article :
+
+<div style="text-align:center">
+  la<span style="font-weight:bold"> GrImFo.</span>
+</div>
+
+En effet, cette approche possède les atouts suivants :
+
+<br>
+## C'est lent au chargement
 
 **Exemple**
 
@@ -35,7 +45,7 @@ Vous venez d'en perdre 4.
 <br>
 ## Ca fait du bruit inutilement
 
-L'oeil est facilement accroché par les forts contrastes, et donc va passer du temps à scruter les détails complètements inutiles de votre GrImFo. Encore une bonne seconde de perdue sur les 5 dont vous disposez.
+L'oeil est facilement accroché par les forts contrastes, et donc va passer du temps à scruter des détails complètements inutiles. Encore une bonne seconde de perdue sur les 5 dont vous disposez.
 
 **Exemple**
 
@@ -76,21 +86,21 @@ Une erreur très classique consiste à oublier que, par dessus la GrImFo, il y a
 <br>
 ## Ca merdoie en responsive
 
-On a bien essayé de faire en sorte que ça ne brouille rien sur desktop, on a gommé les détails inutiles, mais, pas de bol, sur mobile, l'image perd tout son sens, et en plus on brouille le message alors que sur desktop ça passait bien (ce n'est plus la même zone qui est en dessous du texte). Solutions possibles :
+On a bien essayé de faire en sorte que ça ne brouille rien sur desktop, on a gommé les détails inutiles, mais, pas de bol, sur mobile, l'image perd tout son sens, et en plus on brouille le message alors que sur desktop ça passait bien (ce n'est plus la même zone qui est en dessous du texte).
 
 **Solutions**
 
- - image de fond "intelligente", qui change d'apparence en fonction du device.
- - se passer de la GrImFo
+ - Image de fond "intelligente", qui change d'apparence en fonction de la largeur de l'écran.
+ - Se passer de la GrImFo
 
 <br>
 ## On perd un temps fou à en discuter
 
-Vous aurez remarquez que la GrImFo prend toute la place dans l'écran, et en plus c'est une image donc attire l'oeil beaucoup plus que votre message. Conclusion : tout le monde passe son temps à la discuter de manière plus ou moins constructive, on en vient à oublier de discuter des type de fonts utilisées, des couleurs, de la qualité du copywriting, bref, tout ce qui contribue à la qualité de la landing page.
+Comme elle prend toute la place dans l'écran, tout le monde passe son temps à la discuter de manière plus ou moins constructive, on en vient à oublier de discuter des typefaces utilisées, des couleurs, de la qualité du copywriting, bref, tout ce qui contribue à la qualité de la landing page.
 
 **Solutions**
 
- - Coupez votre interlocuteur en expliquant que l'image ne fait pas toute la landing
+ - Coupez votre interlocuteur
  - Passez-vous de la GrImFo (l'ai-je déjà mentionné quelque part ?)
 
 <br>
@@ -98,7 +108,4 @@ Vous aurez remarquez que la GrImFo prend toute la place dans l'écran, et en plu
 
 L'utilisateur impatient perd son temps à la voir arriver, le créateur perd son temps à en discuter, le technicien perd son temps à la rendre "correcte".
 
-Le succès n'est pas dépendant de la GrImFo. Allez-voir la landing page de Dropbox ou Firefox.
-
-Donc, toi qui commence tout juste avec ta startup ou ton tout nouveau projet, pour démarrer, un bon conseil : oublie la grande image de fond dans ta landing. Tu auras tout le temps de l'A/B tester plus tard.
-
+Donc, toi qui commence tout juste avec ta startup ou ton tout nouveau projet, un bon conseil : oublie la grande image de fond dans ta landing. Au moins au début. Tu auras tout le temps de l'A/B tester plus tard.
