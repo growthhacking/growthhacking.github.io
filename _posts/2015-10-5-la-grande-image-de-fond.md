@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  La grande image de fond dans une landing page
-published: false
+published: true
 ---
 <br>
 
@@ -23,7 +23,7 @@ Voici ce qui arrive à votre GrImFo, la première fois qu'un utilisateur la char
 <div style="text-align:center">
   <figure>
   <img src ="http://res.cloudinary.com/toutuncafe/image/upload/v1444056873/grimfo/slow.gif" />
-  <figcaption style="font-style:italic">P**** on a envie de fermer la page, c'est trop lent</figcaption>
+  <figcaption style="font-style:italic">Là je ferme la page</figcaption>
   </figure>
 </div>
 
